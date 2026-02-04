@@ -1,5 +1,5 @@
 ## Hi there 👋
-## My name is Carson Belcher. I am a senior Mechanical Engineering student at the University of South Florida.
+# My name is Carson Belcher. I am a senior Mechanical Engineering student at the University of South Florida.
 <!--
 **carsondbelcher/carsondbelcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
